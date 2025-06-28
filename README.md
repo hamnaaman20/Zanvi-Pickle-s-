@@ -79,14 +79,14 @@
   <div class="product">
     <a href="https://ibb.co/sdhkXZD2"><img src="https://i.ibb.co/C3qNSfXz/IMG-20250624-WA0002.jpg" alt="IMG-20250624-WA0002" border="0"></a>
     <h2>Lemon Pickle</h2>
-    <a href="https://wa.me/9199XXXXXXXX?text=Hi%20I%20want%20to%20order%20Lemon%20Pickle" class="btn">Order Now</a>
+    <a href="https://wa.me/919495373787?text=Hi%20I%20want%20to%20order%20Lemon%20Pickle" class="btn">Order Now</a>
   </div>
 
   <!-- Product 4 -->
   <div class="product">
     <a href="https://ibb.co/sdhkXZD2"><img src="https://i.ibb.co/C3qNSfXz/IMG-20250624-WA0002.jpg" alt="IMG-20250624-WA0002" border="0"></a>
     <h2>Garlic Pickle</h2>
-    <a href="https://wa.me/9199XXXXXXXX?text=Hi%20I%20want%20to%20order%20Garlic%20Pickle" class="btn">Order Now</a>
+    <a href="https://wa.me/919495373787?text=Hi%20I%20want%20to%20order%20Garlic%20Pickle" class="btn">Order Now</a>
   </div>
 
 </section>
@@ -99,7 +99,7 @@
 <section id="contact" class="hero">
   <h1>Contact Us</h1>
   <p>📞 Phone: +91 94953 73787<br>📧 Email:zanvipickles@gmail.com </p>
-  <a href="https://wa.me/9199XXXXXXXX?text=Hi%20I%20am%20interested%20in%20your%20pickles!" class="btn">Chat on WhatsApp</a>
+  <a href="https://wa.me/919495373787?text=Hi%20I%20am%20interested%20in%20your%20pickles!" class="btn">Chat on WhatsApp</a>
 </section>
 
 <footer>
